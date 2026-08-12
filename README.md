@@ -31,6 +31,12 @@ Minhas Ferramentas de programação:
   <img alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
     <img alt="NetBeans" title="NetBeans" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" />          
 </p>
+
+## 📚 Estou aprendendo ....  
+
+ - Banco de dados
+ - Cybersecurity
+ - Cloud
           
 <!--
 **raidev269/raidev269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
